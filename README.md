@@ -49,8 +49,8 @@ This is an an attempt to sort it out.
 * Latent Class Analysis
 
 **Mexican Hats** 
-[Difference of Gaussians](http://en.wikipedia.org/wiki/Difference_of_Gaussians) = Mexican Hat function (really old, awesome American physicists)
-[Ricker Wavelet](http://en.wikipedia.org/wiki/Mexican_hat_wavelet) = Mexican hat wavelet/function (anyone else who says Mexican Hat function)
+* [Difference of Gaussians](http://en.wikipedia.org/wiki/Difference_of_Gaussians) = Mexican Hat function (really old, awesome American physicists)  
+* [Ricker Wavelet](http://en.wikipedia.org/wiki/Mexican_hat_wavelet) = Mexican hat wavelet/function (anyone else who says Mexican Hat function)    
 But seriously, people. Let's not bicker over slivers of differences. We aren't launching spacecraft, here. 
 
 
@@ -59,7 +59,7 @@ But seriously, people. Let's not bicker over slivers of differences. We aren't l
 
 credit: [JustinWick](http://en.wikipedia.org/wiki/User:JustinWick) - Originally uploaded to en.wikipedia. Generated using Mathematica 5.0.
 
-
+-------
 ###[LRS note] --
 This is my related but ginormo-scale thing that's been rolling around in my head for a while. Since I am visual/spatial, I was imagining more of a clicky thing where you could wander around. 
 Maybe feed it some scraped & analyzed stuff, but allow plenty of expert refining, etc. 
