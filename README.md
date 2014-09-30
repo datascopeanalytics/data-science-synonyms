@@ -2,9 +2,11 @@ Because many data analysis methods developed relatively independently in statist
 
 This is an an attempt to sort it out.
 
-NOTE: When terms are "near synonyms," it seems like it is v. educational to describe the difference.
-
-NOTE: It could be interesting to scrape departmental course web pages to see what type of terminology is used in different disciplines.
+NOTES:
+* When terms are "near synonyms," it seems like it is v. educational to describe the difference.
+* It could be interesting to scrape departmental course web pages to see what type of terminology is used in different disciplines.
+* Maybe instead of an "all-encompassing" thesaurus, could write blog posts that talk about specific interesting cases.
+* Writing specific blog posts might be a good strategy even if there is a central tool.
 
 I don't know the best way to structure this, for now I'm just going to jot some notes here.
 
