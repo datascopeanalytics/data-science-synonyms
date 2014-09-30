@@ -48,3 +48,9 @@ Latent Variable Model [nice chart on Wikipedia](http://en.wikipedia.org/wiki/Lat
 * Latent Class Analysis
 
 
+[Difference of Gaussians](http://en.wikipedia.org/wiki/Difference_of_Gaussians) = Mexican Hat function (really old, awesome American physicists)
+[Ricker Wavelet](http://en.wikipedia.org/wiki/Mexican_hat_wavelet) = Mexican hat wavelet/function (anyone else who says Mexican Hat function)
+But seriously, people. Let's not bicker over slivers of differences. We aren't launching spacecraft, here. 
+![](http://upload.wikimedia.org/wikipedia/commons/b/b5/DOG_vs_MHF.png)
+credit: [JustinWick](http://en.wikipedia.org/wiki/User:JustinWick) - Originally uploaded to en.wikipedia. Generated using Mathematica 5.0.
+
